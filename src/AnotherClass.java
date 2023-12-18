@@ -3,5 +3,6 @@ public class AnotherClass {
         System.out.println("Create conflict");
         System.out.println("SOLVED Modification Améliorée!");
         System.out.println("SOLVED Conflit from Github ahahahah");
+        System.out.println("For tags");
     }
 }
